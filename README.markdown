@@ -1,18 +1,19 @@
-= SolrPagination
+SolrPagination
+==============
 
 Adds a find_all_by_solr method to acts_as_solr models to enable
 will_paginate for acts_as_solr search results.
 
 
-== History
 
 Originally by Henrik Nyh <http://henrik.nyh.se> 2007-06-18.
-Blog post: http://henrik.nyh.se/2007/06/using-will_paginate-with-acts_as_solr
+http://henrik.nyh.se/2007/06/using-will_paginate-with-acts_as_solr
 
 Updated for latest versions of solr and will_paginate, and pluginized by David Lowenfels. 08/2008
 
 
-== Example
+Example
+=======
 
 TODO
 
